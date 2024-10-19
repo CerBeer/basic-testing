@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generateLinkedList should generate linked list from values 2 1`] = `
+{
+  "next": {
+    "next": {
+      "next": {
+        "next": {
+          "next": {
+            "next": {
+              "next": {
+                "next": {
+                  "next": {
+                    "next": {
+                      "next": {
+                        "next": {
+                          "next": {
+                            "next": {
+                              "next": {
+                                "next": {
+                                  "next": {
+                                    "next": {
+                                      "next": {
+                                        "next": {
+                                          "next": null,
+                                          "value": null,
+                                        },
+                                        "value": ".",
+                                      },
+                                      "value": "g",
+                                    },
+                                    "value": "n",
+                                  },
+                                  "value": "i",
+                                },
+                                "value": "r",
+                              },
+                              "value": "t",
+                            },
+                            "value": "s",
+                          },
+                          "value": " ",
+                        },
+                        "value": "t",
+                      },
+                      "value": "s",
+                    },
+                    "value": "e",
+                  },
+                  "value": "t",
+                },
+                "value": " ",
+              },
+              "value": "s",
+            },
+            "value": "i",
+          },
+          "value": " ",
+        },
+        "value": "s",
+      },
+      "value": "i",
+    },
+    "value": "h",
+  },
+  "value": "T",
+}
+`;
